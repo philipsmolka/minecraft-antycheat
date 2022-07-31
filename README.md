@@ -1,4 +1,4 @@
-## Minecraft-antycheat
+## MINECRAFT-ANTYCHEAT
 
 ### Project status and license
 Pre-alpha v1.0 / freeware
