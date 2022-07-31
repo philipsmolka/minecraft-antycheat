@@ -24,7 +24,7 @@ Python libraries ( socket, os, subprocess, psutil, time, sys, threading, yaml, s
 
 ## HOW TO RUN?
 
-### How to run software ( server side )?
+### How to run software ( game server side )?
 1. Open your game server directory.  
 2. Install the mc-antycheat plugin on your game server.  
 3. Run the game server.  
@@ -44,6 +44,8 @@ Mc-antycheat client should open connect with dedicated antycheat server.
 If the connection is unstable or the server is down. The game may not be possible.  
 Do not start game lunch directly, make sure the game is not turned on.  
 The game launcher will start automatically after authorization.  
+The dedicated anti-cheat server is intended only for the software developer.  
+Information related to it is confidential.
 
 
 
