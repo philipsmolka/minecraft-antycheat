@@ -11,7 +11,7 @@ The program is designed to counteract and isolate players who cheat in the game 
 The software protects the servers against most cheats available on the market.
 
 ### Technologies used
-The project uses technologies such as python, java, javascript, mysql, php, html, css, client-server connection.
+The project uses technologies such as python, java, javascript, mysql, php, html, css, client-server connection.  
 Python libraries ( socket, os, subprocess, psutil, time, sys, threading, yaml, sys, pathlib, mysql.connector ).
 
 ### Features
