@@ -8,7 +8,8 @@ Pre-alpha v1.0
 Freeware
 
 ### The purpose of the "minecraft-antycheat" project.
-Minecraft-antycheat is a program that blocks unwanted and illegal software running on clients' computers connecting to the game server.
+Minecraft-antycheat is a program that blocks unwanted and illegal software
+running on clients' computers connecting to the game server.
 The program is designed to counteract and isolate players who cheat in the game on private servers.
 
 ### The scope of functionality
