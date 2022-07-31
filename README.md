@@ -14,6 +14,13 @@ The software protects the servers against most cheats available on the market.
 The project uses technologies such as python, java, javascript, mysql, php, html, css, client-server connection.
 Python libraries ( socket, os, subprocess, psutil, time, sys, threading, yaml, sys, pathlib, mysql.connector ).
 
+### Features
+- Registration system,
+- Login system,
+- Connect between website, database, client app, server app, game server plugin,
+- Checking client files size, paths, contents and processes.
+
+
 
 ## HOW TO RUN?
 
