@@ -19,14 +19,14 @@ The project uses technologies such as python, java, javascript, mysql, php, html
 ### Python libraries
 ( socket, os, subprocess, psutil, time, sys, threading, yaml, sys, pathlib, mysql.connector ) 
 
-#HOW TO RUN?
+# HOW TO RUN?
 
 ## How to run software ( server side )?
 1. Open your game server directory.
 2. Install the mc-antycheat plugin on your game server.
 3. Run the game server.
 
-##How to run software ( client side )?
+## How to run software ( client side )?
 1. Open "run".
 2. Type "%appdata%".
 3. Open ".minecraft" directory.
