@@ -1,5 +1,4 @@
-# Minecraft-antycheat
-Anty-cheat security software to Minecraft game.
+## Minecraft-antycheat
 
 ### Project status and license
 Pre-alpha v1.0 / freeware
