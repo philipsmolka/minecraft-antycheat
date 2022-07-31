@@ -1,11 +1,8 @@
 # Minecraft-antycheat
 Anty-cheat security software to Minecraft game.
 
-### Project status
-Pre-alpha v1.0 
-
-### License
-Freeware
+### Project status and license
+Pre-alpha v1.0 / freeware
 
 ### The purpose of the "minecraft-antycheat" project.
 Minecraft-antycheat is a program that blocks unwanted and illegal software running on clients' computers connecting to the game server.  
