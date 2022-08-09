@@ -18,7 +18,7 @@ Python libraries ( socket, os, subprocess, psutil, time, sys, threading, yaml, s
 - Registration system,
 - Login system,
 - Connect between website, database, client app, server app, game server plugin,
-- Checking client files size, paths, contents and processes.
+- Checking client files size, paths, contents and processes, looking for client cheats.
 
 
 
