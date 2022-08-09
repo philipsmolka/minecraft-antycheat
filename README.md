@@ -17,6 +17,8 @@ Python libraries ( socket, os, subprocess, psutil, time, sys, threading, yaml, s
 ### Features
 - Registration system,
 - Login system,
+- Ranking system,
+- Client panel,
 - Connect between website, database, client app, server app, game server plugin,
 - Checking client files size, paths, contents and processes, looking for client cheats.
 
