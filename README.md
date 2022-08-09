@@ -1,7 +1,7 @@
 ## MINECRAFT-ANTYCHEAT
 
 ### Project status and license
-Pre-alpha v1.0 / freeware
+Pre-alpha v1.0 / 1.8.8 game version / freeware 
 
 ### The purpose of the "minecraft-antycheat" project
 Minecraft-antycheat is a program that blocks unwanted and illegal software running on clients' computers connecting to the game server.  
