@@ -35,9 +35,11 @@ Python libraries ( socket, os, subprocess, psutil, time, sys, threading, yaml, s
 3. Open ".minecraft" directory.  
 4. Create or move your "minecraft.exe" into ".minecraft" directory.  
 5. Register your account on mc-antycheat.com.  
-6. Run mc-antycheat.exe from your desktop.   
-7. Login to the Mc-antycheat app with the data provided during registration.  
-8. Join a game server that uses anti-cheat, the game will start automatically.  
+6. Add your in game nickname to account panel. 
+7. Run mc-antycheat.exe from your desktop, the game will start automatically.     
+8. Login to the Mc-antycheat app with the data provided during registration.  
+9. Login to the game with the data provided during registration. 
+10. Join a game server that uses anti-cheat.
 
 -Startup notes-  
 Mc-antycheat client should open connect with dedicated antycheat server.   
