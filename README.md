@@ -36,7 +36,7 @@ Python libraries ( socket, os, subprocess, psutil, time, sys, threading, yaml, s
 2. Type "%appdata%".  
 3. Open ".minecraft" directory.  
 4. Create or move your "minecraft.exe" into ".minecraft" directory.  
-5. Register your account on mc-antycheat.com.  
+5. Register your account on mc-antycheat.com / vps-ff5fb9a1.vps.ovh.net
 6. Add your in game nickname to account panel. 
 7. Run mc-antycheat.exe from your desktop, the game will start automatically.     
 8. Login to the Mc-antycheat app with the data provided during registration.  
